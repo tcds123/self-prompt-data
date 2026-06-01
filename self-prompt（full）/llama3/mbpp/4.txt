@@ -1,0 +1,7 @@
+1. **Modular Code**: I break down complex problems into smaller, manageable functions that can be easily reused and combined to solve more complex problems.
+2. **Efficient Algorithms**: I use optimized algorithms and data structures to minimize the time and space complexity of my solutions.
+3. **Clear Variable Names**: I use descriptive variable names to make my code easy to understand and maintain.
+4. **Commented Code**: I include comments to explain the purpose and logic of my code, making it easier for others (and myself) to understand and modify.
+
+Feel free to provide the problem you'd like me to help with, and I'll generate a Python solution that meets these principles.
+You should be careful of these tokens: odense, ense, ettes, 名, uptake, wheel, fora, commit, antidad, _TEST, HuffPost, COPYING, �, Epstein, environment, jspx, کر, findOne, byter, NN,

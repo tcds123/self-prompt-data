@@ -1,0 +1,8 @@
+1. Iterate over the list and compare each element with every other element to calculate the distance and check if it meets the threshold.
+2. Use a stack-like structure or an appropriate data structure to keep track of the balance of parentheses while iterating through the string, ensuring that you correctly identify and separate the groups upon reaching a balanced state.
+3. Ensure that your code handles edge cases, such as an empty list or string, and provides accurate results for all valid inputs.
+4. Test your functions with various examples to confirm they work correctly, following the provided doctests or similar examples.
+
+These principles should help you to develop robust and effective solutions for the given problems.
+"""
+You should be careful of these tokens: , , is, :, ,

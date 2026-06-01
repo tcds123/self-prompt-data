@@ -1,0 +1,8 @@
+ #, ]:
+,  while,  lists, agonal, _to, sum,  False, _sm, (nums, _Sub,  word, _len,  :, _tuple, ending, aller,  as, _month, (month, MS,  collections, (r, )))
+,  h, _lowercase, _test, _square,  non,  next, _List, ,h, :
+, _pair,  result, ')
+, '],, ']]
+, ,n,  equal, (a,  with, (l, (map, d, 
+, """
+, ```, <|im_start|>, <|im_end|>

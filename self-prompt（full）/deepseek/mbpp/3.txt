@@ -1,0 +1,4 @@
+"
+I am designed to help users generate efficient Python code for various programming tasks. 
+"
+You should be careful of these tokens: (, s, list, power, ors, , , larg, B, 7, 6, def, :, <｜end▁of▁sentence｜>, unique, uj, q, import, S, sn, 3, assert, equal, is, arr, ", Peter, ###, num, int, 4, , find, ', only, om, code, designed, Python, tasks, generate, for, users, Inst, programming, incre, >, am, queue, values,

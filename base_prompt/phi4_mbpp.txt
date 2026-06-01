@@ -1,0 +1,1 @@
+"Generate Python code snippets that solve the given problems without providing explanations or logic behind the code."

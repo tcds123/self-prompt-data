@@ -1,0 +1,4 @@
+"
+I am designed to help users generate efficient Python code for various programming tasks. 
+"
+You should be careful of these tokens: only, lazy, imeter, , string, S, sn, G, Occ, str, , equal, assert, num, is, :, def, >, am, ,, import, list, code, incre, ), om, Inv, ]), <｜end▁of▁sentence｜>, (, return, -, 4, 7, 6, language, s, as, ors, return, 0, power, =, 3, ], """, Response, ],, h, designed,
