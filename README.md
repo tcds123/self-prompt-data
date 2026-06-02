@@ -111,7 +111,7 @@ python eval_plus/generate.py \
     --root self-prompt（full）/qwen3_8b/humaneval \
     --task 0 \
     --sys_prompt_index 1 \
-    --temperature 0.05 --greedy --n_samples 1
+    --temperature 0 --greedy --n_samples 1
 ```
 
 ### Prompt Assembly Format
