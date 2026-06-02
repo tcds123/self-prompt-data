@@ -122,14 +122,6 @@ The full prompt for each model × dataset × index follows this pattern:
 2. **`\nYou should be careful of these tokens: `** (separator)
 3. **Extra tokens** from `extra prompt/{model}/{dataset}/{index}.txt` (cleaned)
 
-### Rebuilding
-
-To regenerate the full prompts after updating base or extra prompts:
-
-```bash
-cd self-prompt/upload_data
-# Run the generation script (see generate_full_prompts.py or the assembly logic above)
-```
 
 ## Citation
 
