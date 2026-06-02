@@ -1,6 +1,6 @@
 # Self-Prompt Upload Data
 
-This directory contains the prompt data for the **Self-Prompt** project — automatically discovering optimal system prompts for code generation LLMs via soft-prompt optimization and evaluation on HumanEval / MBPP benchmarks.
+This directory contains the prompt data for the **Self-Prompt** project — automatically discovering optimal system prompts for code generation LLMs via soft-prompt optimization and evaluation on HumanEval / MBPP / Eval_PLUS benchmarks.
 
 ## Directory Structure
 
@@ -19,12 +19,12 @@ Model-specific system prompts that define the role and constraints for each mode
 |---|---|
 | General coding assistant | `deepseek_mbpp.txt`, `gemma3_*.txt` |
 | Step-by-step methodology | `llama3_*.txt`, `phi4_humaneval.txt` |
-| Code-only (no explanation) | `qwen3_8b_humaneval_low.txt`, `qwen3_4b_mbpp.txt` |
+| Code-only (no explanation) | `qwen3_8b_humaneval.txt`, `qwen3_4b_mbpp.txt` |
 | Algorithm-focused | `qwen3_30b_*.txt`, `qwen3_4b_humaneval.txt` |
 
-**Models covered:** DeepSeek-Coder-6.7B, Llama-3.2-3B, Phi-4-mini, Qwen3-4B/8B/30B, Qwen3.5-27B, Gemma-3-4B, Qwen2-7B
+**Models covered:** DeepSeek-Coder-6.7B, Llama-3.2-3B, Phi-4-mini, Qwen3-4B/8B/30B,
 
-**Datasets:** HumanEval, MBPP (with variants: `_pass5`, `_low`, `_general`)
+**Datasets:** HumanEval, MBPP (with variants: `_pass5`, `_general`)
 
 ## 2. `extra prompt/` — Optimized Soft-Prompt Tokens
 
@@ -137,4 +137,4 @@ This work is part of the Self-Prompt research project on automatic system prompt
 
 ## License
 
-See the repository's root LICENSE file.
+This dataset is distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. This is a permissive license that allows reuse, redistribution, and modification of the data for any purpose, provided appropriate attribution is given. Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
